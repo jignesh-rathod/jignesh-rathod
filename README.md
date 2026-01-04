@@ -1,16 +1,20 @@
-## Hi there 👋
+Hi 👋
 
-<!--
-**jignesh-rathod/jignesh-rathod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Java developer focused on backend development and building clean, reliable, and maintainable software systems.
 
-Here are some ideas to get you started:
+Currently working as a Java Developer Intern, where I’m learning how real-world backend systems are written, tested, documented, and maintained.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I focus on
+- Core Java and backend logic
+- Writing clean and readable code
+- Code documentation using JavaDoc
+- Unit testing with JUnit
+- Understanding and improving existing codebases
+
+### How I use GitHub
+I use GitHub to share:
+- Small backend-focused projects
+- Code examples and experiments
+- Clean implementations of concepts I’m learning
+
+Always learning, improving, and writing better code.
